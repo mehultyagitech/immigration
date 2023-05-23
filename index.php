@@ -299,8 +299,8 @@ We also provide information on the benefits of immigrating to Canada, such as ac
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-md-12">
-                        <div class="why-choose-us-image bg-image">
-                            <img src="assets/img/why-choose-us.jpg" alt="image">
+                        <div class="why-choose-us2-image bg-image">
+                            <img src="assets/img/why-choose-us2.jpg" alt="image">
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12">

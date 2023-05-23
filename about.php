@@ -325,7 +325,7 @@
                     
                     <div class="col-lg-6 col-md-12">
                         <div class="testimonial-img">
-                            <img src="assets/img/man.jpg" alt="image">
+                            <img src="assets/img/man1.jpg" alt="image">
                         </div>
                     </div>
                 </div>

@@ -3864,7 +3864,17 @@ Why Choose Us Area CSS
   margin-right: 0;
   padding-right: 0;
   border-radius: 90px 20px 90px 20px;
-  background-image: url(../img/why-choose-us.jpg);
+  background-image: url(../img/why-choose-us1.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.why-choose-us2-image.bg-image {
+  height: 100%;
+  margin-right: 0;
+  padding-right: 0;
+  border-radius: 90px 20px 90px 20px;
+  background-image: url(../img/why-choose-us2.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;

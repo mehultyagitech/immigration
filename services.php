@@ -128,7 +128,7 @@ foreach ($pointers as $pointer) {
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
                         <div class="what-we-do-image">
-                            <img src="assets/img/what-we-do/what-we-do1.jpg" alt="image">
+                            <img src="assets/img/what-we-do/what-we-do3.jpg" alt="image">
                             <img src="assets/img/shape/shape5.png" alt="image" class="shape">
                         </div>
                     </div>
@@ -179,7 +179,7 @@ foreach ($pointers as $pointer) {
                     </div>
                     <div class="col-lg-6 col-md-12">
                         <div class="what-we-do-image">
-                            <img src="assets/img/what-we-do/what-we-do1.jpg" alt="image">
+                            <img src="assets/img/what-we-do/what-we-do4.jpg" alt="image">
                             <img src="assets/img/shape/shape5.png" alt="image" class="shape">
                         </div>
                     </div>
@@ -196,7 +196,7 @@ foreach ($pointers as $pointer) {
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
                         <div class="what-we-do-image">
-                            <img src="assets/img/what-we-do/what-we-do1.jpg" alt="image">
+                            <img src="assets/img/what-we-do/what-we-do5.jpg" alt="image">
                             <img src="assets/img/shape/shape5.png" alt="image" class="shape">
                         </div>
                     </div>
@@ -239,7 +239,7 @@ foreach ($pointers as $pointer) {
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
                         <div class="what-we-do-image">
-                            <img src="assets/img/what-we-do/what-we-do1.jpg" alt="image">
+                            <img src="assets/img/what-we-do/what-we-do6.jpg" alt="image">
                             <img src="assets/img/shape/shape5.png" alt="image" class="shape">
                         </div>
                     </div>
@@ -285,7 +285,7 @@ foreach ($pointers as $pointer) {
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
                         <div class="what-we-do-image">
-                            <img src="assets/img/what-we-do/what-we-do1.jpg" alt="image">
+                            <img src="assets/img/what-we-do/what-we-do9.jpg" alt="image">
                             <img src="assets/img/shape/shape5.png" alt="image" class="shape">
                         </div>
                     </div>
@@ -324,7 +324,7 @@ foreach ($pointers as $pointer) {
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
                         <div class="what-we-do-image">
-                            <img src="assets/img/what-we-do/what-we-do1.jpg" alt="image">
+                            <img src="assets/img/what-we-do/what-we-do8.jpg" alt="image">
                             <img src="assets/img/shape/shape5.png" alt="image" class="shape">
                         </div>
                     </div>
@@ -414,7 +414,7 @@ foreach ($pointers as $pointer) {
                     </div>
                     <div class="col-lg-6 col-md-12">
                         <div class="what-we-do-image">
-                            <img src="assets/img/what-we-do/what-we-do1.jpg" alt="image">
+                            <img src="assets/img/what-we-do/what-we-do7.jpg" alt="image">
                             <img src="assets/img/shape/shape5.png" alt="image" class="shape">
                         </div>
                     </div>
@@ -429,7 +429,7 @@ foreach ($pointers as $pointer) {
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
                         <div class="what-we-do-image">
-                            <img src="assets/img/what-we-do/what-we-do1.jpg" alt="image">
+                            <img src="assets/img/what-we-do/what-we-do10.jpg" alt="image">
                             <img src="assets/img/shape/shape5.png" alt="image" class="shape">
                         </div>
                     </div>
@@ -501,7 +501,7 @@ foreach ($pointers as $pointer) {
                     </div>
                     <div class="col-lg-6 col-md-12">
                         <div class="what-we-do-image">
-                            <img src="assets/img/what-we-do/what-we-do1.jpg" alt="image">
+                            <img src="assets/img/what-we-do/what-we-do11.jpg" alt="image">
                             <img src="assets/img/shape/shape5.png" alt="image" class="shape">
                         </div>
                     </div>
@@ -516,7 +516,7 @@ foreach ($pointers as $pointer) {
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
                         <div class="what-we-do-image">
-                            <img src="assets/img/what-we-do/what-we-do1.jpg" alt="image">
+                            <img src="assets/img/what-we-do/what-we-do12.jpg" alt="image">
                             <img src="assets/img/shape/shape5.png" alt="image" class="shape">
                         </div>
                     </div>
@@ -562,7 +562,7 @@ foreach ($pointers as $pointer) {
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
                         <div class="what-we-do-image">
-                            <img src="assets/img/what-we-do/what-we-do1.jpg" alt="image">
+                            <img src="assets/img/what-we-do/what-we-do13.jpg" alt="image">
                             <img src="assets/img/shape/shape5.png" alt="image" class="shape">
                         </div>
                     </div>
@@ -597,7 +597,7 @@ foreach ($pointers as $pointer) {
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
                         <div class="what-we-do-image">
-                            <img src="assets/img/what-we-do/what-we-do1.jpg" alt="image">
+                            <img src="assets/img/what-we-do/what-we-do14.jpg" alt="image">
                             <img src="assets/img/shape/shape5.png" alt="image" class="shape">
                         </div>
                     </div>
@@ -651,7 +651,7 @@ foreach ($pointers as $pointer) {
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
                         <div class="what-we-do-image">
-                            <img src="assets/img/what-we-do/what-we-do1.jpg" alt="image">
+                            <img src="assets/img/what-we-do/what-we-do15.jpg" alt="image">
                             <img src="assets/img/shape/shape5.png" alt="image" class="shape">
                         </div>
                     </div>
@@ -715,7 +715,7 @@ foreach ($pointers as $pointer) {
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
                         <div class="what-we-do-image">
-                            <img src="assets/img/what-we-do/what-we-do1.jpg" alt="image">
+                            <img src="assets/img/what-we-do/what-we-do16.jpg" alt="image">
                             <img src="assets/img/shape/shape5.png" alt="image" class="shape">
                         </div>
                     </div>
